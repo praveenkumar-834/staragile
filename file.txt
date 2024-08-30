@@ -1,2 +1,5 @@
 hellow world 
 hai staragile
+
+hai dollar
+hai money
